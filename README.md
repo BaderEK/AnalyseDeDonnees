@@ -3,7 +3,13 @@
 Prochains trucs à faire : 
 
 Bader :
-    Je vais essayer de déterminer vote pourcentage homme femme pour un candidat données Plan : 
+    Je vais essayer de déterminer vote pourcentage homme femme pour un candidat données 
+    
+    
+    
+
+
+Plan : 
 
 
 
