@@ -1,15 +1,13 @@
 # AnalyseDeDonnees
 
-Plan : 
+Lire le data frame : OK
+Créer les df candidats : OK
 
-ACP : 
-    - Déterminer le vote : Age/Sexe/Lieu
-    - Déterminer le score : Age/Sexe/Lieu
+Répartition des natures de votes
 
-2 id perso et 1 id géo
+Fonction camembert : OK
+Regrouper par département et commune des voix et % / candidat
 
-Clustering :
-    - Comprendre la répartition
+Etudier par clustering les résultats par département
 
-
-
+Présentation PPTX
