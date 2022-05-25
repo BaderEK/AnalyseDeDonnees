@@ -1,23 +1,13 @@
 # AnalyseDeDonnees
 
-Prochains trucs à faire : 
+Lire le data frame : OK
+Créer les df candidats : OK
 
-Bader :
-    Je vais essayer de déterminer vote pourcentage homme femme pour un candidat données 
-    
-    
-    
+Répartition des natures de votes
 
+Fonction camembert : OK
+Regrouper par département et commune des voix et % / candidat
 
-Plan : 
+Etudier par clustering les résultats par département
 
-
-
-ACP : 
-    - Déterminer le vote : Age/Sexe/Lieu
-    - Déterminer le score : Age/Sexe/Lieu
-
-2 id perso et 1 id géo
-
-Clustering :
-    - Comprendre la répartition
+Présentation PPTX
